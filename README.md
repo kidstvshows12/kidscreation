@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8"/>
@@ -66,7 +65,4 @@ d.write('<div class="resp-container">
                 hosted on YouTube. We just index those links which are already available in YouTube.</p>
             <p class="m-0 text-center text-muted">Copyright &copy; 2018-2021 <a class="skul"
                     href="/">KIDSTVSHOWS</a></p></b></h5></center>
-        </div>
-    </footer></html><hr/><center></body>
-
-</html>
+      
