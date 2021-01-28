@@ -68,14 +68,9 @@ hr{color:#aaaaaa}
 <body><br/>
 <center><img class="w3-image" src="https://1.bp.blogspot.com/-V8iiXdU9RTY/X4V7iynNH9I/AAAAAAAAAT4/lt_1ZRrj9_8klRwAkm01sOb_AVZ4N8CKACLcBGAsYHQ/s1600/20200309_0906" alt="AtoZcartoonist" width="100%" height="auto"/>
 <hr/>
-    <center><h4><b>YouTube</b></h4></center>
-    <center><h4><b><iframe data-aa="1506101" src="//ad.a-ads.com/1506101?size=320x50" scrolling="no" style="width:320px; height:50px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe></b></h4></center>
-<hr/>
+    
 <script type="text/javascript">
-d.write('<div class="resp-container"><iframe class="resp-iframe" src="https://www.youtube.com/embed/'+iframe+'" gesture="media" allow="encrypted-media" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" sandboxscrolling="no" sandbox="allow-scripts allow-same-origin"></iframe></div><hr/><center><a href="https://youpak.com/watch?v='+iframe+'" rel="noopener noreferrer"><button class="btn-hover color-9">Download</button></a><a href="https://www.atozcartoonist.com" rel="noopener noreferrer" target="_blank"><button class="btn-hover color-7">VISIT ATOZ CARTOONIST</button></a></center><br/>')
-</script>
-<hr><center><iframe data-aa="1488745" src="//ad.a-ads.com/1488745?size=336x280" scrolling="no" style="width:336px; height:280px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe><hr/><center>
-<footer>
+d.write('<div class="resp-container">
         <div class="container py-3">
            <center><h5></b><p class="text-center text-muted">ATOZCARTOONIST (YTDRIVE) is affiliated to <a href="/">AtoZcartoonist</a>. And does not host any files on it's servers. All files or contents hosted on YouTube. 
             <a href="/">AtoZcartoonist</a> does not accept responsibility for contents
