@@ -1,16 +1,7 @@
 
 <html>
 <head>
-<meta charset="utf-8"/>
-<meta content="IE=edge" https-equiv="X-UA-Compatible"/>
-<meta content="width=device-width,initial-scale=1" name="viewport"/>
-<title>KIDS TV SHOWS(YTDRIVE)</title>
-<link rel="icon" type="image/png" href="https://.kidstvshows12.blogspot.com/favicon.ico"/>
-<meta name="robots" content="noindex"/>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.1.1/lumen/bootstrap.min.css"/>
-<script>
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-IaT5drN5cdQ/YBJNgLHU-HI/AAAAAAAAAuM/5Z6cEIb3E0Ev5NW8nmqobm0BdJ3yKhG9gCNcBGAsYHQ/s3264/20201201_124705.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="322" data-original-width="3264" src="https://1.bp.blogspot.com/-IaT5drN5cdQ/YBJNgLHU-HI/AAAAAAAAAuM/5Z6cEIb3E0Ev5NW8nmqobm0BdJ3yKhG9gCNcBGAsYHQ/s320/20201201_124705.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><br /></div><hr
     var iframe = getUrlVars()["id"];
     //******************************
     // FUNÇÃO PARA BUSCAR VAR URL  *
@@ -57,12 +48,4 @@ hr{color:#aaaaaa}
 
 </head>
 <body>
-
-('<div class="resp-container">
-        <div class="container py-3">
-           <center><h5><p class="text-center text-muted">KIDSTVSHOWS(YTDRIVE) is affiliated to <a href="/">kidstvshows</a>. And does not host any files on it's servers. All files or contents hosted on YouTube. 
-            <a href="/">KIDSTVSHOWS</a> does not accept responsibility for contents
-                hosted on YouTube. We just index those links which are already available in YouTube.</p>
-            <p class="m-0 text-center text-muted">Copyright &copy; 2018-2021 <a class="skul"
-                    href="/">KIDSTVSHOWS</a></p></h5></center>
-      
+style="background-color: #070d45; border-bottom: 0px; border-image: initial; border-left: 0px; border-right: 0px; border-top-color: rgb(255, 255, 255); border-top-style: solid; box-sizing: content-box; color: #aaaaaa; font-family: &quot;Open Sans&quot;, sans-serif; font-size: 18px; font-weight: 900; height: 0px; margin-bottom: 16px; margin-top: 1rem; overflow: visible; width: 324px;" /><center style="background-color: #070d45; box-sizing: border-box; color: white; font-family: &quot;Open Sans&quot;, sans-serif; font-size: 18px; font-weight: 900;"><footer style="box-sizing: border-box;"><div class="container py-3" style="box-sizing: border-box; margin-left: auto; margin-right: auto; padding-bottom: 1rem !important; padding-left: 15px; padding-right: 15px; padding-top: 1rem !important; padding: 1rem 15px; width: 360px;"><center style="box-sizing: border-box;"><h5 style="box-sizing: border-box; color: inherit; font-family: inherit; font-size: 1.09375rem; font-weight: 500; line-height: 1.2; margin-bottom: 0.5rem; margin-top: 0px;"><p class="text-center text-muted" style="box-sizing: border-box; color: #999999; margin-bottom: 1rem; margin-top: 0px;">KIDSTVSHOWS (YTDRIVE) is affiliated to&nbsp;<a href="https://kidstvshows12.blogspot.com/?m=1" style="background-color: transparent; box-sizing: border-box; color: #158cba; text-decoration-line: none;">Kidstvshows</a>. And does not host any files on it's servers. All files or contents hosted on YouTube.&nbsp;<a href="https://kidstvshows12.blogspot.com/?m=1" style="background-color: transparent; box-sizing: border-box; color: #158cba; text-decoration-line: none;">KIDSTVSHOWS</a>&nbsp;does not accept responsibility for contents hosted on YouTube. We just index those links which are already available in YouTube.</p><p class="m-0 text-center text-muted" style="box-sizing: border-box; color: #999999; margin: 0px;">Copyright © 2018-2021&nbsp;<a class="skul" href="https://kidstvshows12.blogspot.com/?m=1" style="background-color: transparent; box-sizing: border-box; color: #158cba; text-decoration-line: none;">KIDSTVSHOWS</a></p><div><br /></div></h5></center></div></footer></center><div class="separator" style="clear: both; text-align: center;"><br /></div>
