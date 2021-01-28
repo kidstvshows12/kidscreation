@@ -54,11 +54,11 @@ hr{color:#aaaaaa}
 }
 }
 
-</style>
-</head>
-<body><br/>
 
-d.write('<div class="resp-container">
+</head>
+<body>
+
+('<div class="resp-container">
         <div class="container py-3">
            <center><h5></b><p class="text-center text-muted">KIDSTVSHOWS(YTDRIVE) is affiliated to <a href="/">kidstvshows</a>. And does not host any files on it's servers. All files or contents hosted on YouTube. 
             <a href="/">KIDSTVSHOWS</a> does not accept responsibility for contents
