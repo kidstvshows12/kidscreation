@@ -61,7 +61,7 @@ hr{color:#aaaaaa}
 
 d.write('<div class="resp-container">
         <div class="container py-3">
-           <center><h5></b><p class="text-center text-muted">KIDSTVSHOWS(YTDRIVE) is affiliated to <a href="/">AtoZcartoonist</a>. And does not host any files on it's servers. All files or contents hosted on YouTube. 
+           <center><h5></b><p class="text-center text-muted">KIDSTVSHOWS(YTDRIVE) is affiliated to <a href="/">kidstvshows</a>. And does not host any files on it's servers. All files or contents hosted on YouTube. 
             <a href="/">KIDSTVSHOWS</a> does not accept responsibility for contents
                 hosted on YouTube. We just index those links which are already available in YouTube.</p>
             <p class="m-0 text-center text-muted">Copyright &copy; 2018-2021 <a class="skul"
