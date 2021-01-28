@@ -6,7 +6,7 @@
 <meta content="IE=edge" https-equiv="X-UA-Compatible"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <title>KIDS TV SHOWS(YTDRIVE)</title>
-<link rel="icon" type="image/png" href="https://www.atozcartoonist.com/favicon.ico"/>
+<link rel="icon" type="image/png" href="https://.kidstvshows12.blogspot.com/favicon.ico"/>
 <meta name="robots" content="noindex"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet"/>
@@ -53,30 +53,19 @@ hr{color:#aaaaaa}
     overflow: hidden;
     padding-top: 56.25%;
 }
-
-.resp-iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
 }
 
 </style>
 </head>
 <body><br/>
-<center><img class="w3-image" src="https://1.bp.blogspot.com/-V8iiXdU9RTY/X4V7iynNH9I/AAAAAAAAAT4/lt_1ZRrj9_8klRwAkm01sOb_AVZ4N8CKACLcBGAsYHQ/s1600/20200309_0906" alt="AtoZcartoonist" width="100%" height="auto"/>
-<hr/>
-    
-<script type="text/javascript">
+
 d.write('<div class="resp-container">
         <div class="container py-3">
-           <center><h5></b><p class="text-center text-muted">ATOZCARTOONIST (YTDRIVE) is affiliated to <a href="/">AtoZcartoonist</a>. And does not host any files on it's servers. All files or contents hosted on YouTube. 
-            <a href="/">AtoZcartoonist</a> does not accept responsibility for contents
+           <center><h5></b><p class="text-center text-muted">KIDSTVSHOWS(YTDRIVE) is affiliated to <a href="/">AtoZcartoonist</a>. And does not host any files on it's servers. All files or contents hosted on YouTube. 
+            <a href="/">KIDSTVSHOWS</a> does not accept responsibility for contents
                 hosted on YouTube. We just index those links which are already available in YouTube.</p>
             <p class="m-0 text-center text-muted">Copyright &copy; 2018-2021 <a class="skul"
-                    href="/">ATOZCARTOONIST</a></p></b></h5></center>
+                    href="/">KIDSTVSHOWS</a></p></b></h5></center>
         </div>
     </footer></html><hr/><center></body>
 
